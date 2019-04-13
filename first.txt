@@ -1,3 +1,4 @@
 初めてのGit
 git add
 git commit
+git diff
