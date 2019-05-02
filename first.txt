@@ -4,4 +4,3 @@ git commit
 git diff
 git commit --amend
 conflict
-conflict2
