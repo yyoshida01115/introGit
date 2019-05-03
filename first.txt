@@ -6,3 +6,4 @@ git commit --amend
 conflict
 pull request
 github flow
+master2
